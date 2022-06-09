@@ -10,7 +10,7 @@ For my project, I chose reviews on video games for my dataset.
 
 The table below shows some key statistics from a cleaned dataset:
 
-![screenshot]()
+![screenshot](https://github.com/KW0114/Amazon_Vine_Analysis/blob/9d82552678a24e96be823f626765b7935ea8f563/Analysis_Screenshot.png)
 
 
 * There are 94 reviews from Vine members, and 40471 reviews from non-members - looks like not many Vine members review video games.
